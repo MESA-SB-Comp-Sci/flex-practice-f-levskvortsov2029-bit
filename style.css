@@ -21,7 +21,7 @@
   width: 100vw;
   display: flex;
   display: flex;
-  flex: direction:
+  flex-direction: column;
 
 
 
@@ -36,7 +36,10 @@
 .challenge-3 {
   background-color: grey;
   width: 100vw;
-  /* add code below */
+  display: flex;
+  justify-content: center;
+  
+
 
 
 }
